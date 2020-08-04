@@ -6,7 +6,6 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Color;
 import android.os.Environment;
-import android.support.v7.graphics.Palette;
 import android.util.Base64;
 import android.util.Log;
 import android.app.ActivityManager;
